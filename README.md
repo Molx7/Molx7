@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
-<!--
-**Molx7/Molx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Olá, eu sou o Davi Molosse! 👋
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋 Sobre mim
+
+- 🌱 Atualmente aprendendo **Java** e **MySQL**
+- 🎯 Objetivo: conseguir meu **primeiro estágio em desenvolvimento**
+- 📚 Sempre estudando e evoluindo
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/molosse)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:molosse645@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Molx7_&color=blue&style=flat-square" alt="visitors"/>
+  
