@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-
-  # Olá, eu sou o Davi Molosse! 👋
-
+  <img src="https://i.pinimg.com/originals/f5/f6/bf/f5f6bfb7cf83791bec0b208346987c66.gif" width="250"/>
 </div>
 
 ---
 
-## 🙋 Sobre mim
+## Sobre mim
 
 - 🌱 Atualmente aprendendo **Java** e **MySQL**
 - 🎯 Objetivo: conseguir meu **primeiro estágio em desenvolvimento**
@@ -15,7 +12,7 @@
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -26,17 +23,16 @@
 
 ---
 
-## 📬 Contato
+## Contato
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/molosse)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:molosse645@gmail.com)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molosse)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:molosse645@gmail.com)
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Molx7_&color=blue&style=flat-square" alt="visitors"/>
-  
+  <img height="180em" src="https://streak-stats.demolab.com?user=Molx7&theme=dracula&hide_border=true"/>
+</div>
