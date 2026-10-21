@@ -75,12 +75,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Molx7&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molx7&theme=dracula&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Molx7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=8B949E&count_private=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molx7&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Molx7&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Molx7&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B949E&fire=8B949E&currStreakLabel=C9D1D9&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"
+    height="165"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
