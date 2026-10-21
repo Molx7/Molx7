@@ -1,9 +1,6 @@
 <div align="center">
   <h1>Hello, Devs!!</h1>
 
-  <img src="https://media1.tenor.com/m/0vc4WQ-pvQEAAAAd/counterstrike-cs.gif" width="250"/>
-</div>
-
 <div align="center">
 
 <h3 align="center">
