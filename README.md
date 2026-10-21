@@ -6,9 +6,9 @@
 
 <div align="center">
 
-# 🚀 Full Stack Developer | Java, JavaScript & AI Enthusiast
-
-<p align="center">
+<h3 align="center">
+  🚀 Full Stack Developer | Java, JavaScript & AI Enthusiast
+</h3>
   <a href="https://www.instagram.com/molosse7_?psln=MW1hZjRsMWVlenBndw%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -20,13 +20,12 @@
   </a>
 </p>
 
-<h3>"Sapere aude · Nulla dies sine linea"</h3>
+<p align="center">
+  <i>"Sapere aude · Nulla dies sine linea"</i>
+</p>
+
 
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Java+%26+Spring+Boot;React%2C+TypeScript+%26+Node.js;APIs+REST%2C+MySQL+%26+JUnit;Desenvolvimento+Web+com+IA" alt="Typing animation" />
-</p>
 
 ---
 
